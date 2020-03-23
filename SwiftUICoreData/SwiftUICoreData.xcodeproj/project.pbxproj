@@ -16,6 +16,7 @@
 		23D5AB2D2424B6DE000412C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23D5AB2B2424B6DE000412C0 /* LaunchScreen.storyboard */; };
 		23D5AB382424B6DE000412C0 /* SwiftUICoreDataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23D5AB372424B6DE000412C0 /* SwiftUICoreDataTests.swift */; };
 		23D5AB432424B6DE000412C0 /* SwiftUICoreDataUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23D5AB422424B6DE000412C0 /* SwiftUICoreDataUITests.swift */; };
+		23D5AB512424C453000412C0 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23D5AB502424C453000412C0 /* Task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		23D5AB3E2424B6DE000412C0 /* SwiftUICoreDataUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUICoreDataUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		23D5AB422424B6DE000412C0 /* SwiftUICoreDataUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUICoreDataUITests.swift; sourceTree = "<group>"; };
 		23D5AB442424B6DE000412C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		23D5AB502424C453000412C0 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				23D5AB2E2424B6DE000412C0 /* Info.plist */,
 				23D5AB212424B6C8000412C0 /* SwiftUICoreData.xcdatamodeld */,
 				23D5AB282424B6DE000412C0 /* Preview Content */,
+				23D5AB502424C453000412C0 /* Task.swift */,
 			);
 			path = SwiftUICoreData;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			files = (
 				23D5AB1E2424B6C8000412C0 /* AppDelegate.swift in Sources */,
 				23D5AB202424B6C8000412C0 /* SceneDelegate.swift in Sources */,
+				23D5AB512424C453000412C0 /* Task.swift in Sources */,
 				23D5AB252424B6C8000412C0 /* ContentView.swift in Sources */,
 				23D5AB232424B6C8000412C0 /* SwiftUICoreData.xcdatamodeld in Sources */,
 			);
